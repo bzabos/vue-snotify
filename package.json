@@ -65,7 +65,7 @@
     "url": "https://artemsky.github.io/vue-snotify/issues"
   },
   "engines": {
-    "node": ">= 8.0.0",
+    "node": ">= 6.0.0",
     "npm": ">= 5.0.0"
   },
   "devDependencies": {
